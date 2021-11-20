@@ -1,0 +1,12 @@
+{
+    "token": "",
+
+    "webhook_name": "IcareWEB",
+    "webhook_content": "@everyone Mon profile github folow moi !!! https://github.com/icareweb/",
+    "spam_per_webhook": 100,
+
+    "chan_nuke_amount": 50,
+    "chan_nuke_name": "icare", 
+
+    "global_thread_count": 50
+}
