@@ -1,5 +1,5 @@
 - 	Salut, je me présente sous le pseudonyme de Icare-WEB
-- 	Je développe en JavaScript, Pytho, html,css,php
+- 	Je développe en JavaScript, Python, html,css,php
 - 	Je partage mes tools et autre projet de mes amis avec vous a but éducatif meme si je vous invite vivement a vous en servire
 - 	Je n'ai pas de colaborateur
 		Mon serveur discord : https://discord.gg/3TRSeKQ4ZF
